@@ -1,0 +1,17 @@
+{
+  "name": "i-wanna-proxy",
+  "version": "1.0.0",
+  "description": "A proxy for I Wanna Maker for cool stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coding398",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "pako": "^2.1.0",
+    "xml2json": "^0.12.0"
+  }
+}
