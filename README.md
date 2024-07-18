@@ -8,4 +8,4 @@ Now that's out of the way, install Node.js & NPM, then download this repo, and r
 - `npm install`
 - `node index.js`
 
-Should be that simple. If it's not, you can join the IWM modding discord: https://discord.gg/EM9GWS4tfk
+There's a tutorial in the app to show you how to use it. Should be that simple. If it's not, you can join the IWM modding discord: https://discord.gg/EM9GWS4tfk
